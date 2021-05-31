@@ -1,0 +1,14 @@
+.error {
+    border: 1px solid red;
+}
+
+.error_message {
+    color: red;
+}
+
+.summaryError {
+    color: red;
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
